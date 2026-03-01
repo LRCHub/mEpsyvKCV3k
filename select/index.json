@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Beneath the Mask -rain, instrumental version-",
+  "base_artist": "Lyn",
+  "createdAt": "2026-03-01T13:36:34.427687Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Beneath the Mask -rain, instrumental version-",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/01_Beneath_the_Mask_-rain,_instrumental_version-_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beneath the Mask -Rain- (Instrumental Version)",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/02_Beneath_the_Mask_-Rain-_(Instrumental_Version)_VA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beneath the Mask (Rain, Instrumental Version)",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/03_Beneath_the_Mask_(Rain,_Instrumental_Version)_Lyn.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Beneath the Mask",
+      "artist": "Lyn",
+      "has_synced": false,
+      "path": "select/pl_01_Beneath_the_Mask_Lyn.txt"
+    }
+  ]
+}
